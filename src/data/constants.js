@@ -8,7 +8,7 @@ export const Bio = {
   github: "https://github.com/SandulRusara",
   resume:
     "https://drive.google.com/file/d/1cwtg71EvXTvWrluy1u9Xj1HU20509YSn/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/sandul-rusara-94a9a72ab/",
+  linkedin: "",
   instagram: "https://www.instagram.com/_nishan_tharaka/?__pwa=1",
   facebook: "https://web.facebook.com/sandul.rusaraa",
 };
