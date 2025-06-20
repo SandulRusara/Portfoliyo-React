@@ -1,16 +1,16 @@
 export const Bio = {
-  name: "Nishan Tharaka",
+  name: "Sandul Rusara",
   roles: [
     "Back end developer"
   ],
   description:
     "Experienced Backend Developer with expertise in Java, Spring Boot, andNode.js, specializing in scalable, high-performance applications. Proficientin JPA, Spring Data JPA, WebSocket, RESTful APIs, and security (SpringSecurity, OAuth2). Passionate about problem-solving, system architecture,and AI-integrated real-time messaging.",
-  github: "https://github.com/jayawickrma",
+  github: "https://github.com/SandulRusara",
   resume:
     "https://drive.google.com/file/d/1cwtg71EvXTvWrluy1u9Xj1HU20509YSn/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/nishan-tharaka-7b09a52ab/",
+  linkedin: "https://www.linkedin.com/in/sandul-rusara-94a9a72ab/",
   instagram: "https://www.instagram.com/_nishan_tharaka/?__pwa=1",
-  facebook: "https://www.facebook.com/nishan.tharaka.9235",
+  facebook: "https://web.facebook.com/sandul.rusaraa",
 };
 
 export const skills = [
@@ -185,8 +185,8 @@ export const education = [
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9HSdRcJAy1fqp-f7w9bjcJdd_8G7Egha4Dg&s",
     school: "Kalutara Vidyalaya National School",
-    date: "2009 - 2022",
-    desc: "Completed my primary and secondary education from grades 1-13. Successfully earned GCE O/L and GCE A/L qualifications with a focus on mathematics and science subjects. Participated in extracurricular activities that developed leadership skills and teamwork abilities while building a strong academic foundation.",
+    date: "2008 - 2021",
+    desc: "Completed my primary and secondary education from grades 1-13. Successfully earned GCE O/L and GCE A/L qualifications with a focus on Art subjects. Participated in extracurricular activities that developed leadership skills and teamwork abilities while building a strong academic foundation.",
     degree: "GCE O/L, GCE A/L",
   },
   {
@@ -203,29 +203,29 @@ export const education = [
 export const projects = [
     {
     id: 2,
-    title: "English Teacher Website",
+    title: "Frutiful Juicebar",
     description:
-      "English Teacher's Website is a comprehensive online platform designed to enhance the learning experience for students and provide teachers with tools to effectively manage lessons, assignments, and progress tracking. It offers resources for grammar, vocabulary, and writing exercises, alongside interactive quizzes and discussion forums to engage students. The platform also allows teachers to upload teaching materials, monitor student performance, and communicate directly with students for feedback and support.",
+      "A refreshing oasis offering a variety of freshly squeezed juices, smoothies, and health-boosting drinks. Perfect for a quick pick-me-up or a nutritious treat, our juice bar uses only the finest, locally-sourced ingredients to energize your day",
     image:
-      "https://github.com/user-attachments/assets/d725aba3-5a43-424c-9456-e2e7b8918c10",
-    tags: ["HTML","CSS","JavaScript","EmailJs","SCSS"],
-    category: "web app",
-    github: "https://github.com/jayawickrma/English-learning-WebSite.git",
-    webapp: "https://www.ceetcenglishacademy.com/",
-    member: [
-      {
-        name: "Nethmi Dileksha",
-        img: "https://avatars.githubusercontent.com/u/156079813?v=4",
-        linkedin: "https://www.linkedin.com/in/nethmi-dileksha-85b268319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-        github: "https://github.com/nethmidilekshakavi",
-      }
-    ],
+      "https://github.com/SandulRusara/first-sem-fina/blob/master/src/main/resources/images/4too.png",
+    tags: ["JavaFx","CSS"],
+    category: "pos system",
+    github: "https://github.com/SandulRusara/first-sem-fina/tree/master",
+    webapp: "",
+    // member: [
+    //   {
+    //     name: "Nethmi Dileksha",
+    //     img: "https://avatars.githubusercontent.com/u/156079813?v=4",
+    //     linkedin: "https://www.linkedin.com/in/nethmi-dileksha-85b268319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    //     github: "https://github.com/nethmidilekshakavi",
+    //   }
+    // ],
   },
       {
     id: 2,
-    title: "Daffodil-Holidays-Tourism website",
+    title: "Chat Application",
     description:
-      "Sri Lankan Tourism Website is an interactive platform designed to showcase the beauty, culture, and attractions of Sri Lanka. The website provides comprehensive information on tourist destinations, local experiences, cultural festivals, and travel tips, helping visitors plan their perfect trip. With an easy-to-navigate interface, it features detailed guides on beaches, mountains, historical sites, and wildlife, while offering booking options for hotels, tours, and transportation. The site is optimized for a seamless user experience, promoting Sri Lanka as a top travel destination.",
+      "",
       image:
       "https://github.com/user-attachments/assets/6b494173-27f2-42e2-92cf-d0ae662a3a81",
     tags: ["ReactJs","HTML","CSS","JavaScript","EmailJs","SCSS"],
